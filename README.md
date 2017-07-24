@@ -1,34 +1,15 @@
-# Project: google-hompage
-#
-# Brief introduction of the project
-# (easy version): Build the Google.com homepage
-#  - a simple search box
-# 
-# Task:
-# 1. Start with just putting the main elements on the page (the logo and search form)
-# 2. Place them horizontally
-# 3. Create the navbar across the top
-#    https://www.w3schools.com/css/css_navbar.asp
-# 4. Create the footer
+# Project: Google Homepage  
 
 
-# (difficult version): Build the Google.com search results page
-# - placement and order of items on the page
-#
+### Build the Google.com homepage
+- It needs to have a nav bar, the logo, a search bar, and a footer.
 
-# Last step: 
-# push to github repo
-#
-#
-# Showcase the project:
-# option 1: Github pages
-#		Github repo -> Settings -> Github Pages -> change Source from none to master branch -> save
-# 		username.github.io/github-repo-name
+### Build the Google.com search results page
+- Focus on the placement and order of items on the page.
 
-# option 2: rawgit
-# 		rawgit.com -> paste in the url to the main html file from github repo
+#### Showcase the project on Github pages or rawgit.com
 
+  _Uses: HTML, CSS, git_
 
-# Skills demonstrated
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)

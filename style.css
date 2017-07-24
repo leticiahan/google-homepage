@@ -1,0 +1,143 @@
+/* RESET CSS */
+
+body {
+	margin: 0 auto;
+	width: 100%;
+	font-family: Helvetica, sans-serif;
+}
+
+div {
+	clear: both;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	float: left;
+	padding: 24px 10px;
+}
+
+li a {
+	text-decoration: none;
+	display: block;
+	font-size: 0.8em;
+	color: #777;
+}
+
+li a:hover {
+	text-decoration: underline;
+}
+
+.navbar {
+	width: 100%;
+}
+
+.navbar ul {
+	float: right;
+	width: 22%;
+}
+
+.app-icon {
+	padding-top: 22px;
+	width: 7%;
+}
+
+.app-icon img {
+	width: 100%;
+}
+
+.button {
+	background-color: #4285f4;
+	border: none;
+	font-weight: bold;
+	padding: 10px 14px;
+	border-radius: 5%;
+	margin: 14px 30px 0 10px;
+}
+
+.button a {
+	color: #fff;
+}
+
+.button a:hover {
+	text-decoration: none;
+}
+
+.logo {
+	width: 272px; /*32%*/
+	margin: 0 auto;
+	padding-top: 135px;
+}
+
+.search-bar {
+	width: 100%;
+}
+
+form {
+	text-align: center;
+	width: 45%;
+	margin: 0 auto;
+	padding: 25px 0px;
+}
+
+input[type=text] {
+	width: 94%;
+	padding: 15px;
+	margin-bottom: 30px;
+	font-size: 1em;
+	border: none;
+	background-image: url('http://1.bp.blogspot.com/-lINg3E20_4Y/VebwdAy_MaI/AAAAAAAAFJU/8Jg2H-3-_cc/s1600/Microphone.png');
+	background-position: right center;
+	background-repeat: no-repeat;
+	background-size: 2.5%;
+	background-position: 97%;
+	border-radius: 2px;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+}
+
+input[type=text]:focus {
+	outline: none;
+}
+
+input[type=submit], input[type=button] {
+	font-size: 0.8em;
+	font-weight: bold;
+	color: #7d7d7d;
+	box-sizing: border-box;
+	border: none;
+	background-color: #efefef;
+	padding: 10px 16px;
+	margin: 0 2px;
+	border-radius: 5%;
+}
+
+.footer {
+	width: 100%;
+	position: relative;
+	bottom: 0;
+	border: none;
+	border-top: 1px solid #e8e8e8;
+	background-color: #f2f2f2;
+	overflow: hidden;
+}
+
+.footer li a {
+	color: #696969;
+}
+
+.footer-left {
+	padding-left: 15px;
+}
+
+.footer-left li, .footer-right li {
+	padding: 14px 16px;
+}
+
+.footer-right {
+	float: right;
+	padding-right: 15px;
+}
